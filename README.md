@@ -8,6 +8,7 @@ My daily LeetCode solutions in C++ and Python
 | ------- |
 | [0204-count-primes](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -38,4 +39,16 @@ My daily LeetCode solutions in C++ and Python
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Greedy
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
