@@ -20,6 +20,7 @@ My daily LeetCode solutions in C++ and Python
 | ------- |
 | [0204-count-primes](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/0204-count-primes) |
 | [3536-maximum-product-of-two-digits](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My daily LeetCode solutions in C++ and Python
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
