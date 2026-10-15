@@ -9,6 +9,7 @@ My daily LeetCode solutions in C++ and Python
 | [0204-count-primes](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
@@ -46,6 +47,7 @@ My daily LeetCode solutions in C++ and Python
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,12 @@ My daily LeetCode solutions in C++ and Python
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
