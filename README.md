@@ -12,6 +12,7 @@ My daily LeetCode solutions in C++ and Python
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
@@ -28,6 +29,7 @@ My daily LeetCode solutions in C++ and Python
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
@@ -51,6 +53,7 @@ My daily LeetCode solutions in C++ and Python
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vivan070707-ctrl/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
